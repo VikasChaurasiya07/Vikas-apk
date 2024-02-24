@@ -3,7 +3,10 @@
   Portfolio Website<br/>
   <a href="https://vikas-apk.netlify.app" target="_blank">https://vikas-apk.netlify.app</a>
 </h2>
-<img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708718791/webui.png" width="1000" height="700" />
+
+<p align="center">
+  <img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708777245/App/vikasapk.png" width="550" height="600" />
+</p>
 
 
 ## Built With
