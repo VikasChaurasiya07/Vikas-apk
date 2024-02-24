@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708777245/App/vikasapk.png" width="500" height="550" />
+  <img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708777245/App/vikasapk.png" width="480" height="550" />
 </p>
 
 
