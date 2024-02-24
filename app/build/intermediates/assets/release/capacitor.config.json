@@ -1,0 +1,8 @@
+{
+	"appId": "com.VikasChaurasiya.app",
+	"appName": "Vikas Chaurasiya",
+	"webDir": "build",
+	"server": {
+		"androidScheme": "https"
+	}
+}
