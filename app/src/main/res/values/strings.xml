@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Vikas Chaurasiya</string>
+    <string name="title_activity_main">Vikas Chaurasiya</string>
+    <string name="package_name">com.VikasChaurasiya.app</string>
+    <string name="custom_url_scheme">com.VikasChaurasiya.app</string>
+</resources>
