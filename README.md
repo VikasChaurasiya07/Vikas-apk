@@ -11,19 +11,18 @@
 My personal portfolio <a href="https://vikas-apk.netlify.app" target="_blank">https://vikas-apk.netlify.app</a> <br/>
 
 This project built using these technologies:
-- React.js
-- SASS
+- JAVA
+- XML
+- HTML
+- CSS
+- Javascript
 - Netlify
 
 ## Getting Started
 
-```bash
-$ git clone ...       # clone this project to your local machine
-$ cd Portfolio Website  # go to project folder
-$ npm install         # install dependencies
-$ npm run start       # run it locally
-```
-# React js Portfolio
+Download File Open In Android Studio And Run in Emulator.
+
+# Android App Portfolio
 
 Welcome to my portfolio! I'm Vikas Chaurasiya, a passionate individual with a focus on networking, cyber security, and web development.
 
