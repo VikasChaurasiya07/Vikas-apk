@@ -8,7 +8,7 @@
   <img alt="Demo" src="https://res.cloudinary.com/ddbg5nuaw/image/upload/v1708777245/App/vikasapk.png" width="480" height="550" />
 </p>
 
-
+---
 ## Built With
 
 My personal portfolio android application: <a href="https://vikas-apk.netlify.app" target="_blank">https://vikas-apk.netlify.app</a> <br/>
@@ -20,10 +20,43 @@ This project built using these technologies:
 - CSS
 - Javascript
 - Netlify
-
+---
 ## Getting Started
 
-Download File Open In Android Studio And Run in Emulator.
+1. **Download the Project Files from GitHub**:
+   - Navigate to the GitHub repository containing the Android project you want to download.
+   - Look for a "Clone" or "Download" button and choose to download the project as a ZIP file.
+   - Once the download is complete, extract the ZIP file to a location on your computer.
+
+2. **Open Android Studio**:
+   - If you don't have Android Studio installed, download and install it from the official website.
+   - Launch Android Studio once it's installed and ready.
+
+3. **Import the Project**:
+   - In Android Studio, click on "File" in the top menu.
+   - Select "New" > "Import Project...".
+   - Navigate to the location where you extracted the project files from GitHub and select the project folder.
+   - Click "OK" to import the project into Android Studio.
+
+4. **Wait for Gradle Sync**:
+   - Android Studio will start syncing the project with Gradle, which may take a few moments. Allow it to finish the process.
+
+5. **Configure the Emulator**:
+   - If you haven't set up an emulator yet, you can do so by clicking on the AVD Manager icon in the toolbar (it looks like a smartphone with an Android logo).
+   - In the AVD Manager, click "Create Virtual Device" and follow the wizard to create a new emulator.
+   - Choose a device definition, select a system image (API level), and configure other settings as needed.
+   - Once the emulator is created, click "Finish" to close the AVD Manager.
+
+6. **Run the App**:
+   - In Android Studio, make sure the correct emulator is selected from the device dropdown menu in the toolbar.
+   - Click on the green play button (or select "Run" > "Run 'app'") to build and run the app on the emulator.
+   - Android Studio will compile the code, build the APK, and install it on the emulator.
+   - Once the installation is complete, the app will launch automatically on the emulator.
+
+7. **Test the App**:
+   - Interact with the app on the emulator to test its functionality and behavior.
+   - Verify that the app runs smoothly and as expected in the emulator environment.
+----
 
 # Android App Portfolio
 
