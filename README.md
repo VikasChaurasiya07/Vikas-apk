@@ -1,6 +1,6 @@
 # Vikas-apk
 <h2 align="center">
-  Portfolio Website<br/>
+  Portfolio Android Application<br/>
   <a href="https://vikas-apk.netlify.app" target="_blank">https://vikas-apk.netlify.app</a>
 </h2>
 
@@ -11,7 +11,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://vikas-apk.netlify.app" target="_blank">https://vikas-apk.netlify.app</a> <br/>
+My personal portfolio android application: <a href="https://vikas-apk.netlify.app" target="_blank">https://vikas-apk.netlify.app</a> <br/>
 
 This project built using these technologies:
 - JAVA
@@ -27,7 +27,7 @@ Download File Open In Android Studio And Run in Emulator.
 
 # Android App Portfolio
 
-Welcome to my portfolio! I'm Vikas Chaurasiya, a passionate individual with a focus on networking, cyber security, and web development.
+Welcome to my portfolio application! I'm Vikas Chaurasiya, a passionate individual with a focus on networking, cyber security, and web development.
 
 ## About Me
 
